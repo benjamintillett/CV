@@ -3,20 +3,39 @@ Benjamin Tillett
 
 Junior software developer passionate about clean, well-designed code.
 
+##About Me
+==========
+
+After finishing my degree in Physics at the University of Manchester, I spent a few years teaching English, travelling, and setting up various businesses. I then turned my hand to coding...
+
+##Coding Experience
+===================
+###MyGravity Nov 2014 - present
+
+Two weeks after graduating from Makers Academy I found a job working for personal data startup [My Gravity](https://mygravity.co/). And have since been very occupied building a cross platform solution. Predominately building restfull api's in ruby for our mobile and web applications. Along the way I have also built a custom searchable encryption gem for Mongodb, an ajax heavy sinatra based web app in ruby and javascript and devleved into the world of linux server administration.
+
+##Technologies Used at My Gravity
+=================================
+
+Ruby 
+JavaScript 
+Sinatra
+Rails 
+Mongodb 
+Jasmine
+Rspec
+Capybara
+Cucumber
+Linux
+Bash
 
 | [Spark Print](https://github.com/MakersSpark/Maker-Spark-Server) | [Chiiter](https://github.com/benjamintillett/chitter) | [Node Chat](https://github.com/benjamintillett/node_chat) |
 |-----------------|--------- |---------- |
 | Final project @Makers Academy. A WiFi-enabled printer using Spark Core. [Click here](http://spark-print-staging.herokuapp.com/) to view the site | Week 6 challenge @Makers Academy was to write a clone of Twitter using Sinatra. [Here](https://benschitter.herokuapp.com/) is my attempt.| (In progress) I am currently writing a chat application using node.js and web sockets to try and get my head around node. Check it out [here](https://cryptic-retreat-7314.herokuapp.com/)
 
 
-##About Me
-==========
-
-After finishing my degree in Physics at the University of Manchester, I spent a few years teaching English, travelling, and setting up various businesses. I then turned my hand to coding...
-
-
-##Coding
-========
+##Coding History 
+================
 
 I completed the MitX 6.00x [Introduction to Computer Science and Programming in Python]( 
 https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-2841#.VFIWUFOsWwE) and was inspired to follow a carrear in programming. Since then, I have completed various online programming courses in C, Ruby, and Python. 
