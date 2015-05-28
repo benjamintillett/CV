@@ -20,7 +20,7 @@ Predominately building high performance restfull api's in ruby, grape and goliat
 Along the way I have been responsible for:
 * Building a custom searchable encryption gem for Mongodb.
 * Building a custom batch job processor to tranfer data between our multiple api's in ruby and mongo. 
-* Built a javascript heavy sinatra based web app that enables our customer to view usage data from their rewards schemes  
+* Building a javascript heavy sinatra based web app that enables our customer to view usage data from their rewards schemes  
 
 
 ##Technologies Used at My Gravity
