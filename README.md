@@ -12,7 +12,16 @@ After finishing my degree in Physics at the University of Manchester, I spent a 
 
 ###MyGravity Nov 2014 - present
 
-Two weeks after graduating from Makers Academy I found a job working for personal data startup [My Gravity](https://mygravity.co/). And have since been very occupied building our cross platform solution. Predominately building restfull api's in ruby for our mobile and web applications. Along the way I have also built a custom searchable encryption gem for Mongodb and an data reporting web application in ruby and javascript.
+Two weeks after graduating from Makers Academy I found a job working for personal data 
+startup [My Gravity](https://mygravity.co/). And have since been very occupied building our cross platform solution. 
+
+Predominately building high performance restfull api's in ruby, grape and goliath. For our mobile and web applications. 
+
+Along the way I have been responsible for:
+* Building a custom searchable encryption gem for Mongodb.
+* Building a custom batch job processor to tranfer data between our multiple api's in ruby and mongo. 
+* Built a javascript heavy sinatra based web app that enables our customer to view usage data from their rewards schemes  
+
 
 ##Technologies Used at My Gravity
 
@@ -20,6 +29,8 @@ Two weeks after graduating from Makers Academy I found a job working for persona
 * JavaScript 
 * Sinatra
 * Rails 
+* Grape
+* Goliath
 * Mongodb 
 * Jasmine
 * Rspec
