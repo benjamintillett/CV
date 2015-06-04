@@ -1,7 +1,7 @@
 Benjamin Tillett
 ================
 
-Junior software developer passionate about clean, well-designed code.
+Software developer passionate about clean, well-designed code.
 
 ##About Me
 
@@ -38,6 +38,12 @@ Along the way I have been responsible for:
 * Cucumber
 * Linux
 * Bash
+* Html
+* Erb
+* Sass
+* Bootstrap
+* New Relic
+* Code Ship
 
 ##Coding History 
 
@@ -52,9 +58,6 @@ https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-2841#.VFIWUFO
 ##Makers Academy
 
 [Makers Academy](http://www.makersacademy.com/) is a highly selective, immersive web development bootcamp in London, focussed on rapidly training novices to be proficient with key web technologies.
-
-I have just completed the 12-week bootcamp as of 24 October and am currently looking for a job as a junior software developer.   
-
 
 ##Skills
 
