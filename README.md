@@ -3,7 +3,7 @@ Benjamin Tillett
 
 Software developer passionate about clean, well-designed code.
 
-##About Me
+## About Me
 
 
 After finishing my degree in Physics at the University of Manchester, I spent a few years teaching English, travelling, and setting up various businesses. I then turned my hand to coding...
